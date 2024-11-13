@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C, MySql**
 
-- 📫 How to reach me **farhanahmed7389@gmail.com**
+- 📫 Reach me **farhanahmed7389@gmail.com**
 
 - ⚡ Fun fact **I love coffee!**
 
