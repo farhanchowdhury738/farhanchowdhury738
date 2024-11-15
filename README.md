@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structure**
 
-- 💬 Ask me about **C, MySql**
+- 💬 Ask me about **C++, MySql**
 
 - 📫 Reach me **farhanahmed7389@gmail.com**
 
