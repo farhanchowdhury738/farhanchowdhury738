@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Farhan Chowdhury</h1>
-<h3 align="center">Undergraduate CS Student!</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=25&duration=4000&pause=1500&center=true&vCenter=true&width=600&lines=Welcome+to+my+universe!;Undergraduate+CS+Student,+AIUB;Web+Developer;Dot+Net+Developer" alt="Typing SVG" />
+</h1>
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanchowdhury738&label=Profile%20views&color=0e75b6&style=flat" alt="farhanchowdhury738" /> </p>
