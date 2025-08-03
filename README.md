@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/farhanahmed7389" target="blank"><img src="https://img.shields.io/twitter/follow/farhanahmed7389?logo=twitter&style=for-the-badge" alt="farhanahmed7389" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning **Python [July 2025]**
 
-- 💬 Ask me about **C++, MySql, Java**
+- 💬 Ask me about **C++, C#**
 
 - 📫 Reach me **farhanahmed7389@gmail.com**
 
