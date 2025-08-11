@@ -1,0 +1,30 @@
+name: Build Streak Card
+
+on:
+  workflow_dispatch:    # হাত দিয়ে চালাতে পারো
+  schedule:
+    - cron: "0 */12 * * *"   # প্রতি 12 ঘন্টা পর পর (UTC)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # streak.svg কমিট করার অনুমতি
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate streak.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: farhanchowdhury738
+        run: node streak.js
+
+      - name: Commit updated streak.svg
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update streak.svg"
+          file_pattern: streak.svg
