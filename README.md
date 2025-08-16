@@ -69,3 +69,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=farhanchowdhury738&theme=default&hide_border=false&v=2" alt="GitHub Streak" />
 </p>
 
+<!-- GRAPH -->
+<!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhanchowdhury738&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph) -->
+
+
+
