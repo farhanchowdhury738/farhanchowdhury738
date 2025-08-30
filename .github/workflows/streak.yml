@@ -23,8 +23,8 @@ jobs:
           USERNAME: farhanchowdhury738
         run: node streak.js
 
-      - name: Commit updated streak.svg
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update streak.svg"
-          file_pattern: streak.svg
+      # - name: Commit updated streak.svg
+      #   uses: stefanzweifel/git-auto-commit-action@v5
+      #   with:
+      #     commit_message: "chore: update streak.svg"
+      #     file_pattern: streak.svg
