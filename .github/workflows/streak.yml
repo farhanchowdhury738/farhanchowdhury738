@@ -24,9 +24,9 @@ jobs:
         run: node streak.js
 
 # Start Auto
-      # - name: Commit updated streak.svg
-      #   uses: stefanzweifel/git-auto-commit-action@v5
-      #   with:
-      #     commit_message: "chore: update streak.svg"
-      #     file_pattern: streak.svg
+      - name: Commit updated streak.svg
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update streak.svg"
+          file_pattern: streak.svg
 # End Auto
