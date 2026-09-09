@@ -1,70 +1,93 @@
-<!-- ======================= TITLE SECTION ======================= -->
+<!-- ======================= HERO SECTION ======================= -->
+
 <h1 align="center">Hi 👋, I'm Farhan Chowdhury</h1>
 
-<!-- ======================= ANIMATED TYPING TITLE ======================= -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+universe!;Undergraduate+CS+Student,+AIUB;Web+Developer;Dot+Net+Developer" alt="Typing SVG" />
-</h1>
-
-
-<!-- ======================= PROFILE VIEWS BADGE ======================= -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=farhanchowdhury738&label=Profile%20views&color=0e75b6&style=flat" alt="farhanchowdhury738" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farhanchowdhury738&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- ======================= TWITTER FOLLOW BADGE ======================= -->
-<p align="left">
-  <a href="https://twitter.com/farhanahmed7389" target="blank">
-    <img src="https://img.shields.io/twitter/follow/farhanahmed7389?logo=twitter&style=for-the-badge" alt="farhanahmed7389" />
+
+## 👨‍💻 About Me
+
+I'm **Farhan Chowdhury**, an undergraduate Computer Science student at **American International University-Bangladesh (AIUB)**, currently pursuing my BSc in CSE and expected to graduate in **July 2027**.
+
+I'm interested in building web applications, solving programming problems, and exploring data science using R.
+
+
+## 💼 What I Do
+
+- 🌐 **Web Application Development** — Building practical web applications
+- 💻 **Competitive Programming** — Solving problems using algorithms and data structures
+- 📊 **Data Science with R** — Exploring data analysis and data science
+
+
+
+## 📌 Featured Project
+
+### 🎓 TSF – Faculty Finder
+
+A university-focused web application designed to help students easily find faculty information and class schedules.
+
+**Key features:**
+
+* 👨‍🏫 Faculty information
+* 🕒 Class schedules and timings
+* 🔎 Easy access to faculty-related information
+* 🎓 Designed specifically for university students
+
+<p>
+  <a href="https://aiub-faculty-solution.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-2ea44f?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
 
-<!-- ======================= ABOUT ME SECTION ======================= -->
-- 🌱 I’m currently learning **Python [July 2025]**  
-- 💬 Ask me about **C++, C#**  
-- 📫 Reach me **farhanchowdhury7389@gmail.com**  
-- ⚡ Fun fact **I love coffee!**  
 
-<!-- ======================= CONNECT WITH ME SECTION ======================= -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/farhanahmed7389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farhanahmed7389" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/farhanchowdhury738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhanchowdhury738" height="30" width="40" /></a>
-  <!-- <a href="https://fb.com/farhanchowdhury738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhanchowdhury738" height="30" width="40" /></a> -->
-  <a href="https://instagram.com/farhanchowdhury738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhanchowdhury738" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/farhanahmed7389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="farhanahmed7389" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/farhanchowdhury738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhanchowdhury738" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/farhanchowdhury738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="farhanchowdhury738" height="30" width="40" /></a>
-  <a href="https://discord.gg/farhanchowdhury738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="farhanchowdhury738" height="30" width="40" /></a>
-</p>
+## 🛠️ Languages & Technologies
 
-<!-- ======================= LANGUAGES AND TOOLS SECTION ======================= -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-</p>
+### Programming Languages
 
-<!-- ======================= TOP LANGS CARD ======================= -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanchowdhury738&show_icons=true&locale=en&layout=compact&cache_seconds=14400&v=2" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 </p>
 
-<!-- ======================= GITHUB STATS CARD ======================= -->
+### Web Development
+
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanchowdhury738&show_icons=true&locale=en&cache_seconds=14400&v=2" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
 </p>
 
-<!-- ======================= GITHUB STREAK CARD (FIXED) ======================= -->
+### Database
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
+</p>
+
+
+## 💻 Coding Profile
+
+<p align="left">
+  <a href="https://codeforces.com/profile/farhanchowdhury738" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+</p>
+
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=farhanchowdhury738&theme=default&hide_border=false&v=2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=farhanchowdhury738&theme=default&hide_border=false" alt="GitHub Streak"/>
 </p>
 
-<!-- GRAPH -->
-<!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhanchowdhury738&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph) -->
 
+## Connect With Me
 
+📫 **Email:** [farhanchowdhury7389@gmail.com](mailto:farhanchowdhury7389@gmail.com)
 
