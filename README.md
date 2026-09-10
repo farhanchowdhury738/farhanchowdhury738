@@ -1,6 +1,6 @@
 <!-- ======================= HERO SECTION ======================= -->
 
-<h1 align="center">Hi 👋, I'm Farhan Chowdhury</h1>
+<h1 align="center">Hi, I'm Farhan Chowdhury</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farhanchowdhury738&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -16,24 +16,22 @@ I'm interested in building web applications, solving programming problems, and e
 
 ## 💼 What I Do
 
-- 🌐 **Web Application Development** — Building practical web applications
-- 💻 **Competitive Programming** — Solving problems using algorithms and data structures
-- 📊 **Data Science with R** — Exploring data analysis and data science
+- 🌐 **Web Application Development** — Currently learning php [Sep, 2026]
+- 💻 **Competitive Programming** — Solving problems using C++
+- 📊 **Data Science with R** — Exploring data science
 
 
 
 ## 📌 Featured Project
 
-### 🎓 TSF – Faculty Finder
+### Faculty Finder
 
 A university-focused web application designed to help students easily find faculty information and class schedules.
 
 **Key features:**
 
-* 👨‍🏫 Faculty information
-* 🕒 Class schedules and timings
-* 🔎 Easy access to faculty-related information
-* 🎓 Designed specifically for university students
+* Faculty information
+* Class schedules and timings
 
 <p>
   <a href="https://aiub-faculty-solution.netlify.app/" target="_blank">
@@ -80,6 +78,11 @@ A university-focused web application designed to help students easily find facul
 </p>
 
 
+## Connect With Me
+
+**Email:** [farhanchowdhury7389@gmail.com](mailto:farhanchowdhury7389@gmail.com)
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -87,7 +90,4 @@ A university-focused web application designed to help students easily find facul
 </p>
 
 
-## Connect With Me
-
-📫 **Email:** [farhanchowdhury7389@gmail.com](mailto:farhanchowdhury7389@gmail.com)
 
