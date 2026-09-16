@@ -86,7 +86,10 @@ A university-focused web application designed to help students easily find facul
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=farhanchowdhury738&theme=default&hide_border=false" alt="GitHub Streak"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=farhanchowdhury738&theme=default&hide_border=false" 
+    alt="GitHub Streak"
+  />
 </p>
 
 
